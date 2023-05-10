@@ -15,3 +15,5 @@ version '1.0.0'
 client_scripts 'client/*.lua' -- Dit pakt meteen alle lua files in the client folder
 
 server_script 'server.lua'
+
+lua54 'yes'
