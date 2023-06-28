@@ -8,4 +8,4 @@ Test resource
 
 - [x] Fxmanifest
 - [x] Test
-- [] fix 1.0
+- [ ] fix 1.0
